@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/606262fc-4ae5-4cba-865b-9097c0752f6f)# Awesome-VLA
+# Awesome-VLA
 This is a repository of mainstream large VLAs.
 
 # VLAs
